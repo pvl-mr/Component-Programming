@@ -1,0 +1,13 @@
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\ViewTest.exe.config
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\ViewTest.exe
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\ViewTest.pdb
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\LibraryComponents22.exe
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\LibraryComponents22.pdb
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\bin\Debug\LibraryComponents22.exe.config
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.csprojAssemblyReference.cache
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.Properties.Resources.resources
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.csproj.GenerateResource.cache
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.csproj.CoreCompileInputs.cache
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.csproj.CopyComplete
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.exe
+C:\Users\Rustam\source\repos\LibraryComponents22\ViewTest\obj\Debug\ViewTest.pdb
